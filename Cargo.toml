@@ -1,0 +1,7 @@
+[package]
+name = "smartplug"
+version = "0.1.0"
+authors = ["Åke Amcoff <ake.amcoff@lynx.agency>"]
+edition = "2018"
+
+[dependencies]
